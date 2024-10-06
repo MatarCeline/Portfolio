@@ -4,7 +4,19 @@ Welcome to my GitHub portfolio! Here, you will find a showcase of various projec
 
 ## Technologies & Projects 🚀
 
-### 1. Python 🐍
+### 1. AWS Athena SQL ⚡
+**Project**: Load Balancer Access Logs Analysis With Athena  
+**Description**: Developed a solution to investigate abnormal traffic spikes on an AWS Network Load Balancer (NLB).  
+**Key Features**:
+- Querying Athena directly from a Python notebook using the **awswrangler** library.
+- Good understanding of AWS Data Lake architecture, utilizing **S3**, **Glue**, and **Athena**.
+- Investigative analysis to diagnose load balancer anomalies and extract insightful traffic patterns.
+  
+[Explore the code here](./Python%20-%20AWS%20Athena/readme.md)
+
+---
+
+### 2. Python 🐍
 **Project**: Organizational Efficiency Optimization  
 **Description**: Developed a solution for a company to improve their operational efficiency by addressing specific organizational challenges.  
 **Key Features**:
@@ -21,7 +33,7 @@ Other Python Projects:
 
 ---
 
-### 2. SQL 🛠️
+### 3. SQL 🛠️
 **Project**: Carpooling Data Management  
 **Description**: Developed a SQL-based solution to manage and optimize carpooling data.  
 **Key Features**:
@@ -39,7 +51,7 @@ Other Python Projects:
 
 ---
 
-### 3. Web Scraping 🌐
+### 4. Web Scraping 🌐
 **Project**: Web Data Extraction  
 **Description**: Scraped structured data from multiple websites, focusing on analyzing their architecture and extracting valuable information.  
 **Key Features**:
@@ -50,7 +62,7 @@ Other Python Projects:
 
 ---
 
-### 4. MATLAB 📊
+### 5. MATLAB 📊
 **Project**: Product Shelf Life Prediction  
 **Description**: Built a machine learning model in MATLAB to predict the shelf life
 
