@@ -12,7 +12,7 @@ Welcome to my GitHub portfolio! Here, you will find a showcase of various projec
 - Good understanding of AWS Data Lake architecture, utilizing **S3**, **Glue**, and **Athena**.
 - Investigative analysis to diagnose load balancer anomalies and extract insightful traffic patterns.
   
-[Explore the code here](./Python%20-%20AWS%20Athena/readme.md)
+[Explore the code here](./Python%20-%20(AWS%20Athena)/readme.md)
 
 ---
 
@@ -23,13 +23,13 @@ Welcome to my GitHub portfolio! Here, you will find a showcase of various projec
 - Automated workflows
 - Improved resource management
 - Data-driven decision-making  
-[Explore the code here](./Python%20-%20PhoneManufacturer/InsightProject1.ipynb)
+[Explore the code here](./Python%20-%20(PhoneManufacturer)/InsightProject1.ipynb)
 
 Other Python Projects:
-- [Project 2](./Python%20-%20PhoneManufacturer/InsightProject2.ipynb)
-- [Project 3](./Python%20-%20PhoneManufacturer/InsightProject3.ipynb)
-- [Sprint](./Python%20-%20PhoneManufacturer/InsightSprint.ipynb)
-- [User Insights](./Python%20-%20PhoneManufacturer/InsightUsers.ipynb)
+- [Project 2](./Python%20-%20(PhoneManufacturer)/InsightProject2.ipynb)
+- [Project 3](./Python%20-%20(PhoneManufacturer)/InsightProject3.ipynb)
+- [Sprint](./Python%20-%20(PhoneManufacturer)/InsightSprint.ipynb)
+- [User Insights](./Python%20-%20(PhoneManufacturer)/InsightUsers.ipynb)
 
 ---
 
@@ -40,14 +40,14 @@ Other Python Projects:
 - SQL query optimization
 - Cloud data management
 - Performance analysis  
-[Explore the code here](./SQL%20-%20CarPooling/CodeSQLCarPooling.sql)
+[Explore the code here](./SQL%20-%20(CarPooling)/CodeSQLCarPooling.sql)
 
 **Project**: Delhi Market Analysis  
 **Description**: Analyzed market data using SQL to gain insights into the Delhi marketplace.  
 **Key Features**:
 - SQL data extraction and analysis
 - Market trend identification  
-[Explore the code here](./SQL%20-%20DelhiMarket/SQLDelhiMarket.sql)
+[Explore the code here](./SQL%20-%20(DelhiMarket)/SQLDelhiMarket.sql)
 
 ---
 
@@ -58,12 +58,6 @@ Other Python Projects:
 - Data scraping using Python (BeautifulSoup, Scrapy)
 - Data cleaning and analysis
 - Website structure analysis  
-[Explore the code here](./Web%20Scrapping/CodeWebScraping%28FreeGliss%29.ipynb)
+[Explore the code here](./Web%20Scrapping%20-%20Power%20Bi%20-%20(FreeGliss)/CodeWebScraping%28FreeGliss%29.ipynb)
 
 ---
-
-### 5. MATLAB 📊
-**Project**: Product Shelf Life Prediction  
-**Description**: Built a machine learning model in MATLAB to predict the shelf life
-
-
